@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "muffinssongkran",
+  "version": "${version}",
+  "name": "Muffin's Songkran",
+  "description": "Add items from popular culture from Thailand to Minecraft. Songkran!",
+  "authors": ["FireMuffin303"],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/muffinssongkran/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "firemuffin303.muffinssongkran.client.MuffinssongkranClient"
+    ],
+    "main": [
+      "firemuffin303.muffinssongkran.Muffinssongkran"
+    ]
+  },
+  "mixins": [
+    "muffinssongkran.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.19",
+    "fabric": "*",
+    "minecraft": "1.19.4"
+  },
+  "accessWidener": "muffinssongkran.accesswidener"
+}

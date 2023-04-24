@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "particle": "muffinssongkran:item/white_water_gun"
+  }
+}

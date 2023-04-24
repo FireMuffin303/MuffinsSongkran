@@ -1,0 +1,6 @@
+{
+    "parent": "muffinssongkran:item/template_water_gun",
+    "textures": {
+        "particle": "muffinssongkran:item/blue_water_gun_model"
+    }
+}

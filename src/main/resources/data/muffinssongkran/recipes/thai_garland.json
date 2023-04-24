@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "W": {
+      "item": "minecraft:white_tulip"
+    },
+    "P": {
+      "item": "minecraft:poppy"
+    }
+  },
+  "pattern": [
+    "WWW",
+    "WWW",
+    "P P"
+  ],
+  "result": {
+    "item": "muffinssongkran:thai_garland"
+  },
+  "show_notification": true
+}

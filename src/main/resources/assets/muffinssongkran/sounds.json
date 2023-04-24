@@ -1,0 +1,18 @@
+{
+  "item.water_gun.filling": {
+    "sounds": [{
+      "name":"muffinssongkran:item/water_gun/water_gun_filling",
+      "volumn": 0.6
+    }
+    ],
+    "subtitle": "muffinssongkran:subtitles.item.water_gun.filling"
+  },
+  "item.water_gun.loaded": {
+    "sounds": [{
+      "name": "muffinssongkran:item/water_gun/water_gun_loaded",
+      "volumn": 0.6
+    }
+    ],
+    "subtitle": "muffinssongkran:subtitles.item.water_gun.loaded"
+  }
+}
