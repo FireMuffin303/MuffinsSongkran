@@ -5,7 +5,11 @@
   "name": "Muffin's Songkran",
   "description": "Add items from popular culture from Thailand to Minecraft. Songkran!",
   "authors": ["FireMuffin303"],
-  "contact": {},
+  "contact": {
+    "sources": "https://github.com/FireMuffin303/muffinssongkran",
+    "homepage": "https://modrinth.com/mod/muffins-songkran",
+    "issues": "https://github.com/FireMuffin303/MuffinSniffer/issues"
+  },
   "license": "MIT",
   "icon": "assets/muffinssongkran/icon.png",
   "environment": "*",
